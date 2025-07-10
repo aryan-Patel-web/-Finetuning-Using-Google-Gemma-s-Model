@@ -1,7 +1,9 @@
 
+
 # Gemma-LoRA-FineTuning
 
-Fine-tune Google’s Gemma LLM using LoRA adapters on an English quotes dataset.  
+Fine-tune Google’s Gemma LLM using LoRA adapters on an English quotes dataset.
+
 This repo shows:
 - Loading Google Gemma with 4-bit quantization
 - Preparing data with HuggingFace Datasets
@@ -18,21 +20,21 @@ This repo shows:
 pip install -U bitsandbytes==0.42.0 peft==0.8.2 trl==0.7.10 accelerate==0.27.1 datasets==2.17.0 transformers==4.38.0
 
 
-## ✅ Repo structure
+##  Repo structure
 
 Gemma-LoRA-FineTuning/
 ├── .env
 ├── requirements.txt
 ├── finetune_gemma.ipynb
 ├── README.md
-└── outputs/
+└── 
 
 2. Environment Variables
 Create a .env file:
 
 HF_TOKEN=your_hf_token_here
 
-✅ Example
+ Example
 
 Input:
 Quote: A woman is like a tea bag;
