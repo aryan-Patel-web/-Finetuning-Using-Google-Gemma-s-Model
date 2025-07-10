@@ -1,0 +1,33 @@
+langchain
+langchain_openai
+
+python-dotenv
+langchain_community
+langchain_chroma
+chroma
+langchain_core
+
+streamlit
+langchain_huggingface
+huggingface_hub
+langchain_groq
+pypdf
+
+# sqlite
+mysql-connector-python
+SQLALchemy
+
+
+# used in text summarization
+validators
+
+youtube_transcript_api
+
+unstructured
+pytube
+wikipedia
+numexpr
+
+
+# fine tunning 
+accelerate
