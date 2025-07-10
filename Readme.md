@@ -1,10 +1,9 @@
-
-
 # Gemma-LoRA-FineTuning
 
 Fine-tune Google’s Gemma LLM using LoRA adapters on an English quotes dataset.
 
 This repo shows:
+
 - Loading Google Gemma with 4-bit quantization
 - Preparing data with HuggingFace Datasets
 - Efficient LoRA fine-tuning with TRL’s SFTTrainer

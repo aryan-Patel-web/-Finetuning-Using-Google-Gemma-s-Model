@@ -1,11 +1,9 @@
 langchain
-langchain_openai
+
 
 python-dotenv
-langchain_community
-langchain_chroma
-chroma
-langchain_core
+
+
 
 streamlit
 langchain_huggingface
